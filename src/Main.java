@@ -78,7 +78,7 @@ public class Main {
 
         System.out.println("14)Збільшення розміру списку масиву");
         ArrayList<String> list2 = new ArrayList<>();
-        list2.ensureCapacity(20); 
+        list2.ensureCapacity(20);
         list2.add("white");
         list2.add("black");
         list2.add("yellow");
