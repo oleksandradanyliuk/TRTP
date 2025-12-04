@@ -23,7 +23,7 @@ public class Main {
         if (found != null) System.out.println(found);
 
 
-        inventory.addProduct(new Product("A0002", "Banana", 18));
+        inventory.addProduct(new Product("A0002", "Chocolate bar", 18));
         System.out.println("\nAfter adding:");
         inventory.printAllProducts();
 
